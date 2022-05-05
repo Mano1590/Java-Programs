@@ -1,0 +1,25 @@
+
+
+  public class Main {
+
+  public static void main(String[] args) {
+
+  int x=90,y=x++,dummy;
+
+  System.out.println("before swapping x="+x);
+
+   System.out.println("before swapping y="+y);
+
+  dummy=x;
+
+  x=y;
+
+  y=dummy;
+
+    System.out.println("after swapping x= "+x);
+
+     System.out.println("after swapping y= "+y);
+
+  }
+
+}
