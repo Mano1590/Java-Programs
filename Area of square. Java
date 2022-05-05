@@ -1,0 +1,13 @@
+public class Main {
+
+  public static void main(String[] args) {
+
+  int area,base=4,height=base;
+
+  area=base*height;
+
+    System.out.println("area of square is "+area);
+
+  }
+
+}
