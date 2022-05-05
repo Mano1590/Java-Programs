@@ -1,0 +1,35 @@
+public class Main {
+
+  public static void main(String[] args)
+
+  {
+
+  int a=6,b=61;
+
+  if(a<b)
+
+    {
+
+  System.out.println("b is greater");
+
+   b=b+10;
+
+    System.out.println("now b is"+b); 
+
+    }
+
+    else
+
+    {
+
+      System.out.println("a is greater");
+
+      a=a+10;
+
+        System.out.println("now a is"+a);
+
+     }
+
+    }
+
+ } 
