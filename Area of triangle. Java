@@ -1,0 +1,13 @@
+public class Main {
+
+  public static void main(String[] args) {
+
+ int area ,base=4,height=2,half=1/2;
+
+  area=(base*height)/2;
+
+    System.out.println("area of triangle is "+area);
+
+  }
+
+}
